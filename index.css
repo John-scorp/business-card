@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color:aliceblue;
+    margin-top: 20px;
+    
+
+}
+
+img{
+    width: 200px;
+    border-radius: 50%;
+    padding:5px;
+}
+
+.card{
+    display: flex;
+    justify-content: space-around;
+    width: 500px;
+    background-color: brown;
+    border: 3px solid rgb(255, 166, 0);
+}
+
+.card-name{
+    border-right: 2px solid  rgb(255, 166, 0);
+    padding: 5px;
+}
